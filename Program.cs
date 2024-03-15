@@ -19,6 +19,22 @@ string filteredWords = FilterWords(arr);
 // Вывод результатов
 System.Console.WriteLine($"Отфильтрованные слова: ({filteredWords})");
 
+static string FilterWords(string[] arr)
+{
+    // Создаем список для хранения отфильтрованных слов
+    System.Collections.Generic.List<string> filteredWords = new System.Collections.Generic.List<string>();
+
+    // Итерируем по каждому слову в исходном массиве
+    foreach (string word in arr)
+    {
+        // Проверяем длину слова
+        if (word.Length <= 3)
+        {
+            // Если длина слова меньше или равна 3 символам, добавляем его в список отфильтрованных слов
+            filteredWords.Add(word);
+        }
+    }
+
 
 
 
