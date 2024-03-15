@@ -1,0 +1,15 @@
+C:\Users\mirawingin\Desktop\homework\homework\bin\Debug\net8.0\homework.exe
+C:\Users\mirawingin\Desktop\homework\homework\bin\Debug\net8.0\homework.deps.json
+C:\Users\mirawingin\Desktop\homework\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+C:\Users\mirawingin\Desktop\homework\homework\bin\Debug\net8.0\homework.dll
+C:\Users\mirawingin\Desktop\homework\homework\bin\Debug\net8.0\homework.pdb
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.sourcelink.json
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.dll
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\refint\homework.dll
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.pdb
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+C:\Users\mirawingin\Desktop\homework\homework\obj\Debug\net8.0\ref\homework.dll
