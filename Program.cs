@@ -10,6 +10,14 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
+// Исходный массив строк
+string[] arr = { "привет ", "как", "твои", "дела", "?" };
+
+// Новый массив для хранения отфильтрованных слов
+string filteredWords = FilterWords(arr);
+
+// Вывод результатов
+System.Console.WriteLine($"Отфильтрованные слова: ({filteredWords})");
 
 
 
