@@ -19,6 +19,7 @@ string filteredWords = FilterWords(arr);
 // Вывод результатов
 System.Console.WriteLine($"Отфильтрованные слова: ({filteredWords})");
 
+
 static string FilterWords(string[] arr)
 {
     // Создаем список для хранения отфильтрованных слов
@@ -34,6 +35,14 @@ static string FilterWords(string[] arr)
             filteredWords.Add(word);
         }
     }
+
+    // Преобразуем список в строку, разделяя слова запятыми
+    string result = string.Join(", ", filteredWords);
+
+    // Возвращаем результат
+    return result;
+}
+
 
 
 
